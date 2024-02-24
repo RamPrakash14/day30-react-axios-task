@@ -1,8 +1,7 @@
-# React + Vite
+This is an React Axios task with CRUD operations.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+In this, the User data from an mock api (https://65977ed4668d248edf22e6dc.mockapi.io/axios) have been fetched and display in the UI.
 
-Currently, two official plugins are available:
+The data of a new user can also be added to the api.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+And the data can be edited and deleted from the api.
